@@ -1,1 +1,1 @@
-print("Get Ignore")
+print(True)

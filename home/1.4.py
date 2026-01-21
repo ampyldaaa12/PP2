@@ -1,1 +1,1 @@
-print("Bereket Medetbayev")
+print(10 / 2)

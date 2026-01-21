@@ -1,1 +1,1 @@
-print("KBTU")
+print(10 + 3)
